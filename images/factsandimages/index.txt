@@ -1,0 +1,10 @@
+homepage-buildings.jpg|It's possible to design and build buildings that generate energy rather than consume it.|
+homepage-children1.jpg|30,000 children die every day through starvation or from preventable diseases.|
+homepage-education1.jpg|Girls make up most of the 1.2 million children in the world without access to any kind of education.|
+homepage-girls2.jpg|Of all the funding donated to developing nations, girls receive just 2%.|
+homepage-hungry1.JPG|Over 800 million people in the world hardly ever have enough to eat.|
+homepage-newbabies1.jpg|300 of the 15,000 babies born every hour will either die at birth or before their 1st birthday.|
+homepage-renewable.jpg|The total solar and wind energy available on earth, if properly harnessed, could provide over 5,000 times the world's total energy requirements each year.|
+homepage-water1.jpg|Water-related diseases kill more than 5 million people each year - 10 times the number killed by conflicts.|
+homepage-water2.jpg|Just &pound;20 can permanently provide a family with clean drinking water.|
+homepage-endangered1.jpg|The world loses 100 species of plant and animal every single day.|
